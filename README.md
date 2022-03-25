@@ -1,4 +1,4 @@
 # Laptop shop
 
-live website [laptop shop](https://laptopshopbd.netlify.app/).
+live website [https://laptopshopbd.netlify.app/](https://laptopshopbd.netlify.app/).
 
