@@ -1,0 +1,62 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Lenovo IdeaPad D330 10IGL",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/d330/d330-1-500x500.jpg"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Lenovo IdeaPad Slim 3i",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-slim/ip-slim-15-500x500.jpg"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Apple MacBook Air",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/MGN73/macbook-mgn73Zp-a-500x500.jpg"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Lenovo ThinkBook 15 G2 ITL",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkbook-15-g2/lenovo-thinkbo%20ok-15-g2-laptop-5-500x500.jpg"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Lenovo IdeaPad 5 Ryzen 7",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-5/ideapad-5-10-500x500.jpg"
+        },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Lenovo IdeaPad Flex",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-flex-5/ideapad-flex-5-360degree-500x500.jpg"
+        },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Lenovo IdeaPad Gaming 3i",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3i/ideapad-gaming-3i-01-500x500.jpg"
+        },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Lenovo IdeaPad Flex 5i",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-flex-5i/flex-5i-005-500x500.jpg"
+        },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Lenovo IdeaPad S540 13ITL",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-s540-13itl/ideapad-s540-13itl-01-500x500.jpg"
+        },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        "name": "Lenovo Yoga 6 13ALC6",
+        "price": 420,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-6/yoga-6-02-500x500.jpg"
+        }
+]
