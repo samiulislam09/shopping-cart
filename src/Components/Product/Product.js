@@ -4,7 +4,7 @@ import React from 'react'
 import './Product.css'
 
 function Product(props) {
-  const { name, price, img } = props.product;
+  const { name, price, img, id } = props.product;
   const {handleAddToCart} = props;
   return (
       <div className='card'>
@@ -13,7 +13,7 @@ function Product(props) {
               <h4>{name}</h4>
               <p>price ${ price }</p>
           </div>
-          <button onClick={handleAddToCart}><p>Add to cart <FontAwesomeIcon icon={faCartShopping}></FontAwesomeIcon></p></button>
+          <button onClick={()=>handleAddToCart(props.product)}><p>Add to cart <FontAwesomeIcon icon={faCartShopping}></FontAwesomeIcon></p></button>
     </div>
   )
 }

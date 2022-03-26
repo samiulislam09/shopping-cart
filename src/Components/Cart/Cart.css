@@ -1,0 +1,13 @@
+
+.cart-item{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    position: sticky;
+}
+
+.cart-item img{
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 50%;
+}

@@ -12,4 +12,17 @@
 }
 .cart-container{
     border: 1px solid blue;
+    position: sticky;
+    padding: 35px;
+}
+
+@media screen and (max-width: 480px) {
+    .product-container{
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+    }
+    .cart-container{
+        display: none;
+    }
+    
 }
