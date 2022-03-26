@@ -53,7 +53,7 @@ function Shop() {
                           <p>{random.name}</p>
                           <p>price: ${random.price}</p>
                       </div>
-                      <button onClick={chooseHandler} className='choose-button'>Choose one</button>
+                      <button onClick={chooseHandler} className='choose-button'>Choose one for me</button>
                       <button onClick={resetCart} className='reset'>Choose again</button>
                   </div> : null
               }

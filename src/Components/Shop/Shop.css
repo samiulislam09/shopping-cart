@@ -12,8 +12,8 @@
 .cart-container{
     background-color: antiquewhite;
     position: sticky;
-    top: 0;
     padding: 35px;
+    border-radius: 5px;
 }
 .cart-container button{
     padding: 10px 20px;
@@ -46,16 +46,25 @@
     }
     .cart-container{
         position: absolute;
-        top: 30px;
+        top: 50px;
+        width: 70%;
 
     }
     .open-btn{
-    display: inline;
-    margin-right: 10px;
-    margin-left: 5px;
+        display: inline;
+        margin-right: 10px;
+        margin-left: 5px;
+        margin-top: 5px;
+        background-color: #5783db;
+        border: none;
+        padding: 8px 10px;
     }
     .close-btn{
         display: inline;
+        margin-top: 5px;
+        background-color: #5783db;
+        border: none;
+        padding: 8px 10px;
     }
     .title{
         display: none;
