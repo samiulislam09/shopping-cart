@@ -16,7 +16,7 @@
 .product-details{
     padding: 10px;
 }
-button{
+.card button{
     position: absolute;
     bottom: 0;
     width: 100%;

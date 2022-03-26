@@ -4,18 +4,27 @@
     grid-template-columns: 4fr 1fr;
 }
 .product-container{
-    border: 1px solid black;
     display: grid;
     grid-gap: 10px;
     padding: 75px;
     grid-template-columns: repeat(3, 1fr);
 }
 .cart-container{
-    border: 1px solid blue;
+    background-color: antiquewhite;
     position: sticky;
+    top: 0;
     padding: 35px;
 }
-
+.cart-container button{
+    padding: 10px 20px;
+    display: block;
+    width: 100%;
+    margin: 20px 0px;
+    border: none;
+    background-color: #5783db;
+    color: #fff;
+    border-radius: 5px;
+}
 @media screen and (max-width: 480px) {
     .product-container{
         grid-template-columns: repeat(1, 1fr);

@@ -2,12 +2,12 @@ import React from 'react'
 import './Cart.css'
 
 function Cart(props) {
-    const { name, img } = props.cartData;
-    console.log(name);
+    const { name, price, img } = props.cartData;
   return (
       <div className='cart-item'>
           <img src={img} alt="" />
           <p>{name}</p>
+          <p>price: ${ price }</p>
       </div>
   )
 }
